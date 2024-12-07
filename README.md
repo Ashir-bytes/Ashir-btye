@@ -10,7 +10,7 @@
 - Microsft and software house
 - 📫 How to reach me ...
 - Email["ashirhasnain29@gmail.com"]
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - Ashir
 - ⚡ Fun Fact:
 - I love playing MOBA games and story mode games in my free time!
