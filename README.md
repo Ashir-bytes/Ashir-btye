@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashir-btye
 - I'm a passionate developer skilled in:
-- Languages:Html, Css, Python, JavaScript, C++, etc.
+- Languages:Html, Css, JavaScript, React, Nodejs, etc.
   Tools: Git,and  VS Code, etc.  
 - 👀 I’m interested in 
 - 🌱 I’m currently learning
